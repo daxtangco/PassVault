@@ -36,26 +36,6 @@ PassVault is a secure password management application that allows users to store
 
     You can download the MacOS version of the application here: [PassVault-1.0.dmg](https://drive.google.com/file/d/1_J0-D6r94CNXw06zPbKoLJIn8BcQlDW8/view?usp=sharing)
 
-## Project Structure
-
-src
-└── main
-└── java
-├── Database.java
-├── EncryptionService.java
-├── LoginUI.java
-├── Main.java
-├── PassVaultUI.java
-├── PasswordEntry.java
-├── PasswordGenerator.java
-├── PasswordVault.java
-├── RegisterUI.java
-├── ResetPasswordUI.java
-├── User.java
-└── UserDatabase.java
-resources
-
-
 ## Screenshots
 
 ### Login Screen
