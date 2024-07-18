@@ -20,7 +20,7 @@ PassVault is a secure password management application that allows users to store
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/PassVault.git
+    git clone https://github.com/daxtangco/PassVault.git
     cd PassVault
     ```
 
@@ -34,7 +34,7 @@ PassVault is a secure password management application that allows users to store
 
 4. **Download for MacOS:**
 
-    You can download the MacOS version of the application here: [PassVault-1.0.dmg](MacOS/PassVault-1.0.dmg)
+    You can download the MacOS version of the application here: [PassVault-1.0.dmg](https://drive.google.com/file/d/1_J0-D6r94CNXw06zPbKoLJIn8BcQlDW8/view?usp=sharing)
 
 ## Project Structure
 
